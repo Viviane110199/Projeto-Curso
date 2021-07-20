@@ -1,4 +1,4 @@
-# Projeto-Curso
+# Projeto-Curso Parte 1
 Barbearia Alura
 
 CRIANDO A PRIMEIRA PÁGINA DA WEB 
